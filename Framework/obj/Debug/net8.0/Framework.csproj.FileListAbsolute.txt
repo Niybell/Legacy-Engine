@@ -10,3 +10,4 @@ C:\programming\Legacy Engine\Framework\obj\Debug\net8.0\Framework.dll
 C:\programming\Legacy Engine\Framework\obj\Debug\net8.0\refint\Framework.dll
 C:\programming\Legacy Engine\Framework\obj\Debug\net8.0\Framework.pdb
 C:\programming\Legacy Engine\Framework\obj\Debug\net8.0\ref\Framework.dll
+C:\programming\Legacy Engine\Framework\obj\Debug\net8.0\Framework.csproj.AssemblyReference.cache

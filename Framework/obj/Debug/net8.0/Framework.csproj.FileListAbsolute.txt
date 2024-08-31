@@ -1,0 +1,12 @@
+C:\programming\Legacy Engine\Framework\bin\Debug\net8.0\Framework.deps.json
+C:\programming\Legacy Engine\Framework\bin\Debug\net8.0\Framework.dll
+C:\programming\Legacy Engine\Framework\bin\Debug\net8.0\Framework.pdb
+C:\programming\Legacy Engine\Framework\obj\Debug\net8.0\Framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\programming\Legacy Engine\Framework\obj\Debug\net8.0\Framework.AssemblyInfoInputs.cache
+C:\programming\Legacy Engine\Framework\obj\Debug\net8.0\Framework.AssemblyInfo.cs
+C:\programming\Legacy Engine\Framework\obj\Debug\net8.0\Framework.csproj.CoreCompileInputs.cache
+C:\programming\Legacy Engine\Framework\obj\Debug\net8.0\Framework.sourcelink.json
+C:\programming\Legacy Engine\Framework\obj\Debug\net8.0\Framework.dll
+C:\programming\Legacy Engine\Framework\obj\Debug\net8.0\refint\Framework.dll
+C:\programming\Legacy Engine\Framework\obj\Debug\net8.0\Framework.pdb
+C:\programming\Legacy Engine\Framework\obj\Debug\net8.0\ref\Framework.dll

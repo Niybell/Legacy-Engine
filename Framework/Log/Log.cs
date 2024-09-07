@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Framework.Logs
+namespace LegacyEngine.Logs
 {
     public class Log
     {
